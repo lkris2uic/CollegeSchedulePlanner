@@ -1,0 +1,23 @@
+// styles.scss
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;  // Center vertically
+    justify-content: center;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;  // Center vertically
+    justify-content: flex-start;  // Align left horizontally
+    width: 100%;
+    height: 100%;
+  }
+  
+  .features-heading {
+    // Additional styling for your heading
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

@@ -6,6 +6,7 @@ import React from 'react'
 // import {services} from '../constants'
 // import {fadeIn, textVariant} from '../constants/motion'
 
-export const Support = () => {
+const Support = () => {
     return (<div>Meow34</div>)
 }
+export default Support

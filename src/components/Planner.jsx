@@ -6,6 +6,8 @@ import React from 'react'
 // import {services} from '../constants'
 // import {fadeIn, textVariant} from '../constants/motion'
 
-export const Planner = () => {
+const Planner = () => {
     return (<div>Meo6w</div>)
 }
+
+export default Planner

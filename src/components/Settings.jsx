@@ -9,3 +9,5 @@ import React from 'react'
 export const Settings = () => {
     return (<div>Meorw</div>)
 }
+
+export default Settings
