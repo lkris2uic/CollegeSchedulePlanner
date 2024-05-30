@@ -104,7 +104,6 @@ const Features = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-              date="2011 - present"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
             >
               <h3 className="vertical-timeline-element-title">Semester-based Course Planning</h3>
@@ -115,7 +114,6 @@ const Features = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-              date="2011 - present"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
             >
               <h3 className="vertical-timeline-element-title">Prerequisite Verification</h3>
@@ -126,7 +124,6 @@ const Features = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-              date="2011 - present"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
             >
               <h3 className="vertical-timeline-element-title">Peer Connection</h3>
@@ -137,7 +134,6 @@ const Features = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-              date="2011 - present"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
             >
               <h3 className="vertical-timeline-element-title">Automated Course Registration</h3>
@@ -145,7 +141,7 @@ const Features = () => {
               
             </VerticalTimelineElement >
           </VerticalTimeline>
-          <h1 className="tagline">You’re in good company</h1>
+          <h1 className="tagline">You're in good company</h1>
               <p>
               Rest assured, your privacy is our paramount concern. Utilizing advanced security measures 
               like robust encryption and stringent access controls, we ensure the confidentiality of your personal information throughout the course planning journey. Compliant with strict privacy regulations and industry standards, your data is handled with the utmost care and integrity. Additionally, our platform seamlessly integrates with your university's systems and platforms, facilitating 
