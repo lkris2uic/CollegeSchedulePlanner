@@ -1,0 +1,36 @@
+.support {
+    padding: 60px 0;
+    background-color: black;
+  }
+  
+  .tagline {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .subheading {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .search-bar {
+    margin: 20px 0;
+  }
+  
+  .faq-section, .guides-section, .videos-section, .contact-section, .community-section, .feedback-section {
+    margin-top: 40px;
+  }
+  
+  .video-tutorial {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
